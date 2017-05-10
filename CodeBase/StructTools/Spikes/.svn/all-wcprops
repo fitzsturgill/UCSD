@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Spikes
+END
+makeTempField.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Spikes/makeTempField.m
+END
+readUnitTag.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Spikes/readUnitTag.m
+END
+filtspikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Spikes/filtspikes.m
+END
+spikesAddConds.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Spikes/spikesAddConds.m
+END
+spikesAddSweeps.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Spikes/spikesAddSweeps.m
+END
+addDepthToSpikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Spikes/addDepthToSpikes.m
+END
+UpdateTrials.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Spikes/UpdateTrials.m
+END
+fuseSpikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Spikes/fuseSpikes.m
+END
+filtspikesDepth.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Spikes/filtspikesDepth.m
+END

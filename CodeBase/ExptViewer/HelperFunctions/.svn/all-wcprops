@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions
+END
+getTrialsInSpikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/getTrialsInSpikes.m
+END
+addStimValues.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/addStimValues.m
+END
+isTDTexpt.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/isTDTexpt.m
+END
+keepfield.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/keepfield.m
+END
+GetLEDCond.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/GetLEDCond.m
+END
+GUI_listFilesVisualParams.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/GUI_listFilesVisualParams.m
+END
+spikes_collapseVarParam.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/spikes_collapseVarParam.m
+END
+getUnitInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/getUnitInfo.m
+END
+AddTTLCond.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/AddTTLCond.m
+END
+makeNewExptFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/makeNewExptFormat.m
+END
+createDefaultExptTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/createDefaultExptTable.m
+END
+createDefaultDaqParameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/createDefaultDaqParameters.m
+END
+GUI_listFilesVisualParams.fig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/GUI_listFilesVisualParams.fig
+END
+getSpikesStruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/ExptViewer/HelperFunctions/getSpikesStruct.m
+END

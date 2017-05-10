@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures
+END
+plotGrandAvgPsth.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/plotGrandAvgPsth.m
+END
+psthFcnDepth.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/psthFcnDepth.m
+END
+addSaveFigTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/addSaveFigTool.m
+END
+portraitFigSetup.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/portraitFigSetup.m
+END
+overviewFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/overviewFig.m
+END
+addText.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/addText.m
+END
+exptTableFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/exptTableFig.m
+END
+pushSaveFigButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/pushSaveFigButton.m
+END
+srfFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/srfFig.m
+END
+orientationFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/orientationFig.m
+END
+contrastResponseFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/contrastResponseFig.m
+END
+addExptNameToFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/addExptNameToFig.m
+END
+contrastFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/contrastFig.m
+END
+orientationFig2.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Figures/orientationFig2.m
+END

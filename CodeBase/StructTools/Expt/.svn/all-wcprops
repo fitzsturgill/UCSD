@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt
+END
+makeNewExptFormatSRO.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/makeNewExptFormatSRO.m
+END
+addStimParams.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addStimParams.m
+END
+addStimCond.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addStimCond.m
+END
+modifyUnitStruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/modifyUnitStruct.m
+END
+addTrodeSort.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addTrodeSort.m
+END
+makeExptFromList.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/makeExptFromList.m
+END
+addSort.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addSort.m
+END
+makeExptSRO.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/makeExptSRO.m
+END
+addInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addInfo.m
+END
+getPsychStimParameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/getPsychStimParameters.m
+END
+addRunData.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addRunData.m
+END
+UpdateUnitStruct2.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/UpdateUnitStruct2.m
+END
+GetFileInd.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/GetFileInd.m
+END
+addFiles.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addFiles.m
+END
+getFromExptTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/getFromExptTable.m
+END
+addSweeps.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addSweeps.m
+END
+getFilename.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/getFilename.m
+END
+addProbe.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addProbe.m
+END
+addAnalysisSRO.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addAnalysisSRO.m
+END
+getStimCond.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/getStimCond.m
+END
+addLEDCond.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/StructTools/Expt/addLEDCond.m
+END

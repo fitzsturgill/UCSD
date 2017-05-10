@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Phase%20analysis
+END
+showUnitsPhaseDistribution.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Phase%20analysis/showUnitsPhaseDistribution.m
+END
+unitFreqDistPlot.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Phase%20analysis/unitFreqDistPlot.m
+END
+showUnitArraysLFPFreqDistribution.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Phase%20analysis/showUnitArraysLFPFreqDistribution.m
+END
+showUnitArraysPhaseDistribution.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Phase%20analysis/showUnitArraysPhaseDistribution.m
+END
+showUnitsLFPFreqDistribution.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Phase%20analysis/showUnitsLFPFreqDistribution.m
+END
+spikeTrigLFP.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Phase%20analysis/spikeTrigLFP.m
+END
+unitPhaseDistPlot.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Phase%20analysis/unitPhaseDistPlot.m
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old
+END
+OrientSelectivity.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/OrientSelectivity.m
+END
+analysisGui.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/analysisGui.m
+END
+allPolarPlots.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/allPolarPlots.m
+END
+UnitTuningFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/UnitTuningFig.m
+END
+plotLEDresponseVsControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/plotLEDresponseVsControl.m
+END
+plotLEDresponseVsControlFit.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/plotLEDresponseVsControlFit.m
+END
+unitTuningFigNew.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/unitTuningFigNew.m
+END
+plotLEDresponseVsControlNew.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/plotLEDresponseVsControlNew.m
+END
+plotCSD.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/plotCSD.m
+END
+addSpikeSite.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/addSpikeSite.m
+END
+plotContrastResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/plotContrastResponse.m
+END
+addMaxChField.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/addMaxChField.m
+END
+make16ChSpikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/make16ChSpikes.m
+END
+makeFigure.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/makeFigure.m
+END
+UnitTuningOnOffFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/Old/UnitTuningOnOffFig.m
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays
+END
+fuseUnitArrays.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fuseUnitArrays.m
+END
+filtUa.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/filtUa.m
+END
+removeUnitFields.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/removeUnitFields.m
+END
+findUnitIndexInUa.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/findUnitIndexInUa.m
+END
+addDerivedValuesToOriRates.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/addDerivedValuesToOriRates.m
+END
+listUnitIndicesByFcn.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/listUnitIndicesByFcn.m
+END
+filtUnitArray.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/filtUnitArray.m
+END
+removeEmptyUnitFields.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/removeEmptyUnitFields.m
+END
+listUnitIndicesByDataStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/listUnitIndicesByDataStatus.m
+END
+unitArray_forEachUnit.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/unitArray_forEachUnit.m
+END
+listUnitIndicesByExperiment.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/listUnitIndicesByExperiment.m
+END
+classifyLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/classifyLayer.m
+END
+addFlagToUa.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/addFlagToUa.m
+END
+addUnitFields.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/addUnitFields.m
+END
+populateUnitFields.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/populateUnitFields.m
+END
+mergeUnitArrays.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/mergeUnitArrays.m
+END
+constructUnitArray.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/constructUnitArray.m
+END

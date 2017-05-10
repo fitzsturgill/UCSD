@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers
+END
+featureselect.fig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/featureselect.fig
+END
+raise_me.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/raise_me.m
+END
+emphasize_cluster_colors.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/emphasize_cluster_colors.m
+END
+raise_band.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/raise_band.m
+END
+histxy.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/histxy.m
+END
+progress_bar.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/progress_bar.m
+END
+make_uipanel_on_grid.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/make_uipanel_on_grid.m
+END
+mplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/mplot.m
+END
+make_axes_on_grid.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/make_axes_on_grid.m
+END
+jetm.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/jetm.m
+END
+error_area.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/error_area.m
+END
+get_pos_on_grid.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/get_pos_on_grid.m
+END
+histxt.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/helpers/histxt.m
+END

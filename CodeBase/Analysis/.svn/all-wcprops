@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis
+END
+computeSiteDepth.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/computeSiteDepth.m
+END
+orientTuningMetric.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/orientTuningMetric.m
+END
+ComputePower.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/ComputePower.m
+END
+compareSpikeGammaPhases.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/compareSpikeGammaPhases.m
+END
+pavg.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/pavg.m
+END
+analyzeWaveforms.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/analyzeWaveforms.m
+END
+s_CSD_analysis.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/s_CSD_analysis.m
+END
+normalizePsth.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/normalizePsth.m
+END
+histIndex.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/histIndex.m
+END
+analysis_def.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/analysis_def.m
+END
+analysisGUInew.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/analysisGUInew.m
+END
+sampleToTime.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/sampleToTime.m
+END
+computeFR.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/computeFR.m
+END
+circularMean.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/circularMean.m
+END
+computeResponseVsStimulus.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/computeResponseVsStimulus.m
+END
+computeAvgSpikeWaveform.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/computeAvgSpikeWaveform.m
+END
+avg.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/avg.m
+END
+makeStimStruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/makeStimStruct.m
+END
+computeAvgWaveform.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/computeAvgWaveform.m
+END
+compareDouble.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/compareDouble.m
+END
+avgSem.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/avgSem.m
+END
+plotAvgWaveform.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/plotAvgWaveform.m
+END
+computeSpikeParameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/computeSpikeParameters.m
+END
+FilterBlock.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/FilterBlock.m
+END
+psth2.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/psth2.m
+END
+computeBlankResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/computeBlankResponse.m
+END
+computeIndex.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/computeIndex.m
+END
+allStimPSTH.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/allStimPSTH.m
+END
+psth2sem.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/psth2sem.m
+END
+analysisGUInew.fig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/analysisGUInew.fig
+END
+CSDanalysis.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/CSDanalysis.m
+END
+fitHrf.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/fitHrf.m
+END
+findBursts.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/findBursts.m
+END

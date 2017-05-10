@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort
+END
+temp_script.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/temp_script.m
+END
+ss_aggregate.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/ss_aggregate.m
+END
+waveform.mat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/waveform.mat
+END
+ss_default_params.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/ss_default_params.m
+END
+ss_detect.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/ss_detect.m
+END
+ss_energy.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/ss_energy.m
+END
+ss_align.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/ss_align.m
+END
+ss_kmeans.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/ss_kmeans.m
+END

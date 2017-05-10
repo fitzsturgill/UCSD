@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SignalProcessing
+END
+FindPeaks.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SignalProcessing/FindPeaks.m
+END
+fftFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SignalProcessing/fftFilter.m
+END
+DownSamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SignalProcessing/DownSamp.m
+END
+filtdata.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SignalProcessing/filtdata.m
+END
+wavefilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SignalProcessing/wavefilter.m
+END
+zeroTrace.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SignalProcessing/zeroTrace.m
+END
+filterdata.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SignalProcessing/filterdata.m
+END
+prepdata.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SignalProcessing/prepdata.m
+END

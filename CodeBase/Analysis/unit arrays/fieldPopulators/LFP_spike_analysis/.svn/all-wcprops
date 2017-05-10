@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/LFP_spike_analysis
+END
+extractSpikeTriggeredLFP.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/LFP_spike_analysis/extractSpikeTriggeredLFP.m
+END
+extractSpikePhasesAndFreqs.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/LFP_spike_analysis/extractSpikePhasesAndFreqs.m
+END
+findSpikePhaseFromLFPWin.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/LFP_spike_analysis/findSpikePhaseFromLFPWin.m
+END

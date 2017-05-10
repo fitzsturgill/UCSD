@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting
+END
+DetectSpikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/DetectSpikes.m
+END
+peakfinder.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/peakfinder.m
+END
+makeNewSpikesFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/makeNewSpikesFormat.m
+END

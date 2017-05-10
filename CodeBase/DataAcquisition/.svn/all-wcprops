@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition
+END
+GetChannelInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/GetChannelInfo.m
+END
+DaqSetup.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/DaqSetup.m
+END
+MakeAnalogOut.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/MakeAnalogOut.m
+END
+daqctlr.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/daqctlr.m
+END
+closedaq.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/closedaq.m
+END
+DaqSetup.fig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/DaqSetup.fig
+END
+readDigitalPorts.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/readDigitalPorts.m
+END
+ExptTableNew.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/ExptTableNew.m
+END
+aoGUI.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/aoGUI.m
+END
+MakeOutputWaveform.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/MakeOutputWaveform.m
+END
+showdaq.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/showdaq.m
+END
+cdaq.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/cdaq.m
+END
+DaqController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/DaqController.m
+END
+aoCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/aoCallback.m
+END
+aoGUI.fig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/aoGUI.fig
+END
+DefineAIChannels.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/DefineAIChannels.m
+END
+DaqController.fig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataAcquisition/DaqController.fig
+END

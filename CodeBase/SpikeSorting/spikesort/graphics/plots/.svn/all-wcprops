@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots
+END
+plot_waveforms.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_waveforms.m
+END
+plot_residuals.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_residuals.m
+END
+plot_detection_criterion.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_detection_criterion.m
+END
+plot_distances.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_distances.m
+END
+plot_xcorr.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_xcorr.m
+END
+plot_aggtree.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_aggtree.m
+END
+plot_features.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_features.m
+END
+plot_cluster_tree.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_cluster_tree.m
+END
+plot_isi.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_isi.m
+END
+plot_stability.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_stability.m
+END
+plot_fld.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/graphics/plots/plot_fld.m
+END

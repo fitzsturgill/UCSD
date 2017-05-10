@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote
+END
+generateBars_lut.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/generateBars_lut.m
+END
+rigSpecific.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/rigSpecific.m
+END
+PsychStimController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/PsychStimController.m
+END
+moveBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/moveBar.m
+END
+generateNoise_xyt.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/generateNoise_xyt.m
+END
+s_makeNoisemovie.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/s_makeNoisemovie.m
+END
+generateCPGratings_lut.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/generateCPGratings_lut.m
+END
+PsychStimController.fig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/PsychStimController.fig
+END
+moglClutBlit.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/moglClutBlit.m
+END
+generateGratings_blit.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/generateGratings_blit.m
+END
+generateVarParams.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/generateVarParams.m
+END
+generateBars_blit.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/generateBars_blit.m
+END
+generateGratings_lut.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/generateGratings_lut.m
+END
+makeElipse.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/makeElipse.m
+END
+generateSqGratings_lut.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/BAVStim%20Remote/generateSqGratings_lut.m
+END

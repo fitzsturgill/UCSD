@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators
+END
+populateUnit_osi2.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_osi2.m
+END
+populateUnit_psth.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_psth.m
+END
+populateUnit_oriTheta.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_oriTheta.m
+END
+populateUnit_spontrate.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_spontrate.m
+END
+populateUnits_spikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_spikes.m
+END
+populateUnits_responseMat.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_responseMat.m
+END
+populateUnit_waveform.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_waveform.m
+END
+populateUnits_depth.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_depth.m
+END
+populateUnit_oriRates.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_oriRates.m
+END
+populateUnits_spikefreqs.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_spikefreqs.m
+END
+populateUnits_osi2.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_osi2.m
+END
+populateUnit_responseMat.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_responseMat.m
+END
+populateUnits_psth.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_psth.m
+END
+populateUnits_spikephases.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_spikephases.m
+END
+populateUnits_oriTheta.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_oriTheta.m
+END
+populateUnit_depth.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_depth.m
+END
+populateUnits_waveform.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_waveform.m
+END
+populateUnits_blank.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_blank.m
+END
+populateUnits_oriRates.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_oriRates.m
+END
+populateUnit_spiketimes.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_spiketimes.m
+END
+populateUnits_mean_spike_phase.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_mean_spike_phase.m
+END
+populateUnits_trodespikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_trodespikes.m
+END
+populateUnit_expt.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_expt.m
+END
+populateUnit_spikephasesORfreqs.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_spikephasesORfreqs.m
+END
+populateUnit_blank.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_blank.m
+END
+populateUnit_trodespikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_trodespikes.m
+END
+populateUnit_spikes.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnit_spikes.m
+END
+populateUnits_spiketimes.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_spiketimes.m
+END
+populateUnits_spontrate.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_spontrate.m
+END
+populateUnits_expt.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_expt.m
+END
+populateUnits_spikepows.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/Analysis/unit%20arrays/fieldPopulators/populateUnits_spikepows.m
+END

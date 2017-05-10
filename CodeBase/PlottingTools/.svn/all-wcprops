@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools
+END
+linecustommarker.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/linecustommarker.m
+END
+addErrBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/addErrBar.m
+END
+addUnityLine.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/addUnityLine.m
+END
+rasterplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/rasterplot.m
+END
+plotPsth2.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/plotPsth2.m
+END
+plotSpikesPerTrial.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/plotSpikesPerTrial.m
+END
+colors.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/colors.m
+END
+landscapeFigSetup.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/landscapeFigSetup.m
+END
+defaultAxes.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/defaultAxes.m
+END
+plotWaveformParameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/plotWaveformParameters.m
+END
+blues.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/blues.m
+END
+psth.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/psth.m
+END
+setaxesOnaxesmatrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/setaxesOnaxesmatrix.m
+END
+psthBA.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/psthBA.m
+END
+polarOrientTuning.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/polarOrientTuning.m
+END
+axesGray.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/axesGray.m
+END
+plotOrientTuning.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/plotOrientTuning.m
+END
+plotCategories.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/plotCategories.m
+END
+axesmatrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/axesmatrix.m
+END
+grays.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/grays.m
+END
+lineErrorBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/lineErrorBar.m
+END
+plotAutoCorr.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/plotAutoCorr.m
+END
+setTitle.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/setTitle.m
+END
+raster.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/raster.m
+END
+setSameYmax.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/setSameYmax.m
+END
+removeAxesLabels.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/removeAxesLabels.m
+END
+rasterBA.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/rasterBA.m
+END
+plotPsth2sem.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/plotPsth2sem.m
+END
+plotCrf.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/plotCrf.m
+END
+findMaxYvalue.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/findMaxYvalue.m
+END
+plotOriTuning.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/plotOriTuning.m
+END
+setAxisTicks.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/setAxisTicks.m
+END
+plotTracesFromDataViewer.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/plotTracesFromDataViewer.m
+END
+setXYsameLimit.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/setXYsameLimit.m
+END
+polarDefault.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/polarDefault.m
+END
+addStimulusBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/PlottingTools/addStimulusBar.m
+END

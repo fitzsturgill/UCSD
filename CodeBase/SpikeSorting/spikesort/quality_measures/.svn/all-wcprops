@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/quality_measures
+END
+gmm_overlap.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/quality_measures/gmm_overlap.m
+END
+l_ratio.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/quality_measures/l_ratio.m
+END
+isolation_distance.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/quality_measures/isolation_distance.m
+END
+poisson_contamination.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/quality_measures/poisson_contamination.m
+END
+quality_report.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/SpikeSorting/spikesort/quality_measures/quality_report.m
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer
+END
+HPCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/HPCallback.m
+END
+GetLineThreshValues.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/GetLineThreshValues.m
+END
+updateStimulusLedBars.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/updateStimulusLedBars.m
+END
+onlineLFP.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/onlineLFP.m
+END
+dvCallbackHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/dvCallbackHelper.m
+END
+updateOnlinePSTH.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/updateOnlinePSTH.m
+END
+LPCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/LPCallback.m
+END
+DataViewerSamplAcqCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/DataViewerSamplAcqCallback.m
+END
+DataViewer.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/DataViewer.m
+END
+DataViewerHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/DataViewerHelper.m
+END
+AddAxesLabels.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/AddAxesLabels.m
+END
+ExptDataViewer.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/ExptDataViewer.m
+END
+dvProcessDisplay.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/dvProcessDisplay.m
+END
+UpdateDataViewer.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/UpdateDataViewer.m
+END
+MakePlotVector.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/MakePlotVector.m
+END
+InitializeDataViewerPlots.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/InitializeDataViewerPlots.m
+END
+onlineSRF.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/onlineSRF.m
+END
+PlotChooserHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/PlotChooserHelper.m
+END
+PlotChooser.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/PlotChooser.m
+END
+GetDataViewerVectors.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/GetDataViewerVectors.m
+END
+xAutoScaleDV.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/xAutoScaleDV.m
+END
+DataViewerCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/DataViewerCallback.m
+END
+ExptPlotChooser.fig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/ExptPlotChooser.fig
+END
+onlineFR.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/onlineFR.m
+END
+MakeThreshVector.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/MakeThreshVector.m
+END
+dvAxesPosition.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/dvAxesPosition.m
+END
+updateOnlineFR.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/updateOnlineFR.m
+END
+MakeHPVector.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/MakeHPVector.m
+END
+updateOnlineLFP.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/updateOnlineLFP.m
+END
+MakeLPVector.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/MakeLPVector.m
+END
+TogglePlotCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/TogglePlotCallback.m
+END
+ExptPlotChooser.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/ExptPlotChooser.m
+END
+updateOnlineSRF.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/updateOnlineSRF.m
+END
+yAutoScaleDV.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/yAutoScaleDV.m
+END
+DataViewer.fig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/DataViewer.fig
+END
+ExptDataViewer.fig
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/ExptDataViewer.fig
+END
+ThreshCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/ThreshCallback.m
+END
+PlotChooser.fig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/PlotChooser.fig
+END
+onlinePSTH.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SubVRep/!svn/ver/1104/branches/fitz/CodeBase/DataViewer/onlinePSTH.m
+END
