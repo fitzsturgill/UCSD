@@ -92,7 +92,12 @@ function spikes = ss_default_params(Fs, varargin )
     spikes.params.display.show_outliers = 1;      % 0 = hide outliers, 1 = show outliers
     
 for j = 1:(length(varargin)/2)
-    spikes.params = setfield(spikes.params, varargin{(2*j)-1 }, varargin{2*j} );
+    if ~iscell(varargin{(2*j)-1 })
+        spikes.params = setfield(spikes.params, varargin{(2*j)-1 }, varargin{2*j} );
+    else % for setting nested parameters, e.g. spikes = ss_default_params(32000, {'display', 'trial_spacing'}, 0);
+        spikes.params = setfield(spikes.params, {1}, varargin{(2*j)-1 }{:}, repmat({1}, 1, numel(varargin{(2*j)-1 })), varargin{2*j}); % see setfield documentation
+    end
+    
 end
 
 end
