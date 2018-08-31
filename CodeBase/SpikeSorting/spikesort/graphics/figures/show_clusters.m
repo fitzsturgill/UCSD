@@ -1,4 +1,4 @@
-function show_clusters(spikes, clusters, alt_assigns)
+function show_clusters(spikes, show, alt_assigns)
 % UltraMegaSort2000 by Hill DN, Mehta SB, & Kleinfeld D  - 07/12/2010
 %
 % show_clusters -- creates a figure to plot various statistics of a set of clusters
