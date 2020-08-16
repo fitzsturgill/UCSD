@@ -142,6 +142,12 @@ function mcSaveSpikes(varargin)
     state.mcViewer.trode(index).spikes = figdata.spikes;
     mcUpdateSpikeLines; %ensures that cluster structure is created
 end
+% %% scrapbook for converting into t files for cellbase
+% show = spikes.assigns == 144;
+% tSpikes = spikes.unwrapped_times(show);
+% tSpikes = double(tSpikes');
+% tSpikes = tSpikes + spikes.startRecording;
+
 % --------------------------------
 
 % save spikes object to file
