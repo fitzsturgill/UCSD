@@ -1,5 +1,5 @@
 function splitmerge_tool(spikes, show_clusters, h, varname)
-    global state
+
 % UltraMegaSort2000 by Hill DN, Mehta SB, & Kleinfeld D  - 07/12/2010
 %
 % splitmerge_tool - tool for inspection and correction of a sorted spikes object
@@ -33,11 +33,10 @@ function splitmerge_tool(spikes, show_clusters, h, varname)
 %   show_clusters  - list of IDs for clusters to be worked with (default is to use all clusters)
 %   h              - handle to figure to be used for the splitmerge tool (default = gcf)
 %   varname        - default variable name to which to save modified spikes object (default = 'spikes')
-%   FS MOD-   for use with mcViewer, varname is numeric and == trode index
    
     %  check arguments
     if ~isfield(spikes,'assigns'), error('No assignments found in spikes object.'); end
-    if nargin < 3, h = figure('Units','Normalized','Position',spikes.params.display.default_figure_size); end
+    if nargin < 3 || isempty(h), h = figure('Units','Normalized','Position',spikes.params.display.default_figure_size); end
     if nargin < 2 || isequal( show_clusters,'all') 
         figdata.hidden_clusters = []; 
     else
@@ -57,16 +56,9 @@ function splitmerge_tool(spikes, show_clusters, h, varname)
     % make toolbar buttons
     th = uitoolbar(h);
     data.ims = load('icons_ims');
-    % saving and loading
-   
-    %FS MOD
-    if isnumeric(varname)
-        uipushtool(th,'CData',data.ims.im_save,'ClickedCallBack',@mcSaveSpikes,'userdata',varname,'Tag','saveButton','TooltipString','Save to mcViewer workspace','Separator','on');        
-    else
-        uipushtool(th,'CData',data.ims.im_save,'ClickedCallBack',@saveSpikes,'userdata',varname,'Tag','saveButton','TooltipString','Save to workspace','Separator','on');
-    end
-    %
     
+    % saving and loading
+    uipushtool(th,'CData',data.ims.im_save,'ClickedCallBack',@saveSpikes,'userdata',varname,'Tag','saveButton','TooltipString','Save to workspace','Separator','on');    
     uipushtool(th,'CData',data.ims.im_savefile,'ClickedCallBack',@saveSpikesToFile,'Tag','saveFileButton','TooltipString','Save to file');
     uipushtool(th,'CData',data.ims.im_loadfile,'ClickedCallBack',@loadSpikesFromFile,'Tag','loadFileButton','TooltipString','Load from file');
     
@@ -103,8 +95,8 @@ function splitmerge_tool(spikes, show_clusters, h, varname)
 
     % set up figure
     % FS MOD
-    if isnumeric(varname)
-        set(h, 'Name', ['Merge Tool: ' state.mcViewer.trode(varname).name], 'NumberTitle', 'off');
+    if ~isempty(varname) && ischar(varname)
+        set(h, 'Name', varname, 'NumberTitle', 'off');
     else    
         set(h,'Name','Merge Tool','NumberTitle','off');
     end
@@ -123,42 +115,26 @@ function saveSpikes(varargin)
     figdata = get(h,'UserData');
     me = findobj(h,'Tag','saveButton');
     
+
     % ask for name of output variable
-    varname = inputdlg('Save spike data in what variable?', 'Save to workspace', 1,{get(me,'UserData')});
+    varname = inputdlg('Save spike data in what variable?', 'Save to workspace', 1,{get(me,'UserData') '_spikes'});
+
     if ~isempty(varname)
         assignin('base',varname{1},figdata.spikes)
         set(me,'UserData',varname{1} );
     end
 end
 
-% -------- FS MOD: ----------------
-function mcSaveSpikes(varargin)
-    global state
-    
-    [ax, h] = gcbo;
-    figdata = get(h,'UserData');
-    me = findobj(h,'Tag','saveButton');
-    index = get(me, 'UserData');
-    state.mcViewer.trode(index).spikes = figdata.spikes;
-    mcUpdateSpikeLines; %ensures that cluster structure is created
-end
-% %% scrapbook for converting into t files for cellbase
-% show = spikes.assigns == 144;
-% tSpikes = spikes.unwrapped_times(show);
-% tSpikes = double(tSpikes');
-% tSpikes = tSpikes + spikes.startRecording;
-
-% --------------------------------
-
 % save spikes object to file
 function saveSpikesToFile(varargin)
-
+    
     [b,h] = gcbo;
     
     % check if a filename was previously selected
     filename_default = get(b,'UserData');
+    ttName = get(h, 'Name'); % figure named for trode
     if isempty(filename_default)
-        filename = 'spikes.mat';
+        filename = [ttName '_spikes.mat'];
     else
         filename = [filename_default.pathname filename_default.filename];
     end
@@ -167,14 +143,37 @@ function saveSpikesToFile(varargin)
     [FileName,PathName,FilterIndex] = uiputfile('*.mat','Save Spikes object',filename);
     if ~isequal(FileName,0)
         
-        figdata =get(h,'UserData');
+        figdata = get(h,'UserData');
+        figName = get(h, 'Name');
         spikes = figdata.spikes;
         save([PathName FileName],'spikes');
+        disp(['*** saved: ' PathName FileName]);
 
         % save filename as new 
         a.pathname = PathName;
         a.filename = FileName;
         set(b,'UserData',a);
+        
+        % now save t files
+        labels = spikes.labels;
+        for counter = 1:size(labels, 1)
+            label = labels(counter, 2);
+            if ismember(label, [2 3])
+                assign = labels(counter,1);
+                show = spikes.assigns == assign;
+                tSpikes = spikes.unwrapped_times(show);
+                tSpikes = double(tSpikes');
+                tSpikes = tSpikes + spikes.startRecording;
+                switch label
+                    case 2 % good unit
+                        save([PathName ttName '_' num2str(assign) '.mat'], 'tSpikes');
+                        disp(['*** saved: PathName ttName' '_' num2str(assign) '.mat']);
+                    case 3 % multiunit, leading 00
+                        save([PathName ttName '_00' num2str(assign) '.mat'], 'tSpikes');
+                        disp(['*** saved: PathName ttName' '_00' num2str(assign) '.mat']);                           
+                end
+            end
+        end
     end
 end
      
