@@ -161,9 +161,12 @@ function saveSpikesToFile(varargin)
             if ismember(label, [2 3])
                 assign = labels(counter,1);
                 show = spikes.assigns == assign;
-                tSpikes = spikes.unwrapped_times(show);
-                tSpikes = double(tSpikes');
-                tSpikes = tSpikes + spikes.startRecording;
+% old way:
+%                 tSpikes = spikes.unwrapped_times(show);
+%                 tSpikes = double(tSpikes');
+%                 tSpikes = tSpikes + spikes.startRecording;
+                tSpikes = spikes.nlx_times(show);
+
                 switch label
                     case 2 % good unit
                         save([PathName ttName '_' num2str(assign) '.mat'], 'tSpikes');
